@@ -4,3 +4,8 @@
     font-family: 'Lato', sans-serif;
     /* background-color: white; */
 }
+
+.hr-n{
+    width: 5rem;
+    border: 1px solid #12121243;
+}
