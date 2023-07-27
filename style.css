@@ -7,5 +7,9 @@
 
 .hr-n{
     width: 5rem;
-    border: 1px solid #12121243;
+    border: 1px solid gray;
+}
+.hr-d{
+    width: 80%;
+    border: 1px solid rgb(243, 233, 233);
 }
